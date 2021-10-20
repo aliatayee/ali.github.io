@@ -80,7 +80,7 @@ module.exports = {
     blog: {
         // Display blog posts from your medium or dev.to account. (Optional)
         source: 'dev.to', // medium | dev.to
-        username: 'arifszn',
+        username: 'aliatayee',
         limit: 2 // How many posts to display. Max is 10.
     },
     googleAnalytics: {
