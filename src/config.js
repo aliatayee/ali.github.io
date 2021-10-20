@@ -10,16 +10,16 @@ module.exports = {
         }
     },
     social: {
-        linkedin: 'ariful-alam',
-        twitter: 'arif_swozon',
-        facebook: '',
+        linkedin: 'ali-aqa-atayee-742449155',
+        twitter: 'AtayeeAqa',
+        facebook: 'aliatayee117',
         dribbble: '',
         behance: '',
         medium: '',
         devto: '',
-        website: 'https://arifszn.github.io',
-        phone: '',
-        email: 'contact@arifszn.com'
+        website: 'www.aliatayee.com',
+        phone: '+93797823523',
+        email: 'hello@aliatayee.com'
     },
     skills: [
         'PHP',
@@ -39,42 +39,42 @@ module.exports = {
     ],
     experiences: [
         { 
-            company: 'Monstarlab Bangladesh',
-            position: 'Backend Engineer',
-            from: 'September 2021',
+            company: 'Revand ICT Services',
+            position: 'CEO',
+            from: 'September 2018',
             to: 'Present'
         },
         { 
-            company: 'Orangetoolz - My Offer 360 Degree',
-            position: 'Jr. Full Stack Engineer',
+            company: 'Nexus Point',
+            position: 'Full - Stack Developer',
             from: 'July 2019',
             to: 'August 2021'
         },
         { 
-            company: 'Techvillage',
-            position: 'Jr. Software Engineer',
+            company: 'WePlus Media',
+            position: 'Graphic Designer & Branding Specialist',
             from: 'January 2019',
-            to: ' June 2019'
+            to: ' August 2020'
         }
     ],
     education: [
         { 
-            institution: 'American International University-Bangladesh',
-            degree: 'Bachelor of Science',
-            from: '2015',
-            to: '2019'
+            institution: 'Kabul Polytechnic University',
+            degree: 'Bachelor of Computer Science',
+            from: '2017',
+            to: '2021'
         },
         { 
-            institution: 'Cantonment College, Jessore',
-            degree: 'Higher Secondary Certificate (HSC)',
-            from: '2012',
-            to: '2014',
+            institution: 'Founder Institute',
+            degree: 'Entrepreneurship Certification',
+            from: '2019',
+            to: '2020',
         },
         { 
-            institution: 'Chowgacha Shahadat Pilot High School',
+            institution: 'Dawood Zerak High School',
             degree: 'Secondary School Certificate (SSC)',
-            from: '2007',
-            to: '2012'
+            from: '2004',
+            to: '2016'
         }
     ],
     blog: {
